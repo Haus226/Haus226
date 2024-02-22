@@ -45,6 +45,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haus226&exclude_repo=haus226&hide=jupyter%20notebook&layout=donut)
 
-![Haus's GitHub stats](https://github-readme-stats.vercel.app/api?username=haus226&hide=contribs,prs,issues&rank_icon=github)
+![Haus's GitHub stats](https://github-readme-stats.vercel.app/api?username=haus226&hide=contribs,prs,issues&rank_icon=github&include_all_commits=true)
 
 
