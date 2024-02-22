@@ -43,8 +43,8 @@
 
 <h2> My Top Languages and Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haus226&exclude_repo=haus226,anuraghazra.github.io&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haus226&exclude_repo=haus226&hide=jupyter%20notebook&layout=donut)
 
-![Haus's GitHub stats](https://github-readme-stats.vercel.app/api?username=haus226&hide=contribs,prs,issues)
+![Haus's GitHub stats](https://github-readme-stats.vercel.app/api?username=haus226&hide=contribs,prs,issues&rank_icon=github)
 
 
