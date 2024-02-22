@@ -10,11 +10,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Github projects to build up my abilities.
+- 🔭 I’m currently working on Github projects to build up my profile.
 
-- 🌱 I’m currently learning Neural Architecture Search, Reinforcement Learning, Matrix Computation, Numeric Method 
+- 🌱 I’m currently learning Neural Architecture Search, Reinforcement Learning, Matrix Computation and Numeric Method.
 
-- 👯 I’m looking to collaborate on projects, tech articles etc... 
+- 👯 I’m looking to collaborate on projects, tech articles and etc... 
 
 - 💬 Talk to me about Python, Math, Visualization 
 
