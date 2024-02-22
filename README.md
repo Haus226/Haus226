@@ -47,4 +47,3 @@
 
 ![Haus's GitHub stats](https://github-readme-stats.vercel.app/api?username=haus226&hide=contribs,prs,issues&rank_icon=github&include_all_commits=true)
 
-
