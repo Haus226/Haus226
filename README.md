@@ -78,6 +78,8 @@
       src="https://github-readme-stats.vercel.app/api?username=haus226&hide=contribs,prs,issues&rank_icon=github&include_all_commits=true"
       width="48%" height="160px" alt="@Haus's wakatime stats" /></a>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   <img alt="Haus226's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
 
