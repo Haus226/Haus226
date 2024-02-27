@@ -79,15 +79,15 @@
       width="48%" height="160px" alt="@Haus's wakatime stats" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-239-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 354.4 kB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2024
+> 🏆 81 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,21 +98,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-🌆 Daytime                85 commits          ███████████░░░░░░░░░░░░░░   44.74 % 
-🌃 Evening                68 commits          █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+🌞 Morning                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+🌆 Daytime                85 commits          ███████████░░░░░░░░░░░░░░   44.04 % 
+🌃 Evening                71 commits          █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Thursday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Sunday                   42 commits          ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Tuesday                  29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Thursday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Sunday                   42 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
 ```
 
 
@@ -153,7 +153,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Haus226/Haus226/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2024 07:34:01 UTC
+ Last Updated on 27/02/2024 15:23:17 UTC
 <!--END_SECTION:waka-->
   <img alt="Haus226's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
