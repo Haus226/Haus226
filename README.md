@@ -72,10 +72,14 @@
 
 <p align="center">
   <a href="https://github.com/haus226?tab=repositories"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=haus226&exclude_repo=haus226&hide=jupyter%20notebook&layout=donut")
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=haus226&exclude_repo=haus226&layout=donut&size_weight=0.01&hide=cmake&langs_count=3")
       width="48%" height="160px" alt="@Haus's github-readme-stats" /></a>
   <a href="https://wakatime.com/@Haus226"><img
       src="https://github-readme-stats.vercel.app/api?username=haus226&hide=contribs,prs,issues&rank_icon=github&include_all_commits=true"
       width="48%" height="160px" alt="@Haus's wakatime stats" /></a>
 </p>
+  <img alt="Haus226's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
+
+
+<img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Haus226&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
 
