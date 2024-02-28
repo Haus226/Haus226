@@ -79,9 +79,9 @@
       width="48%" height="160px" alt="@Haus's wakatime stats" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-239-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-244-blue)
 
 **🐱 My GitHub Data** 
 
@@ -122,19 +122,20 @@ Sunday                   42 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   9 hrs 19 mins       █████████████████████████   98.01 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   10 hrs 51 mins      ████████████████████████░   96.23 % 
+C++                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-numericAnalysis          9 hrs 20 mins       █████████████████████████   98.17 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+numericAnalysis          10 hrs 52 mins      ████████████████████████░   96.37 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 💻 Operating System: 
-Windows                  9 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -153,7 +154,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Haus226/Haus226/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2024 15:23:17 UTC
+ Last Updated on 28/02/2024 15:23:08 UTC
 <!--END_SECTION:waka-->
   <img alt="Haus226's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
