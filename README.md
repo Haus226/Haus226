@@ -79,9 +79,9 @@
       width="48%" height="160px" alt="@Haus's wakatime stats" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
 
 **🐱 My GitHub Data** 
 
@@ -122,17 +122,24 @@ Sunday                   42 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   6 hrs 53 mins       █████████████████████████   98.31 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   8 hrs 34 mins       ███████████████████████░░   92.20 % 
+Dart                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  9 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-numericAnalysis          7 hrs 1 min         █████████████████████████   100.00 % 
+numericAnalysis          8 hrs 41 mins       ███████████████████████░░   93.41 % 
+sudoku_solver            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+SudokuSolver             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+SnapHealth               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  9 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -151,7 +158,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Haus226/Haus226/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2024 15:22:43 UTC
+ Last Updated on 08/03/2024 15:23:24 UTC
 <!--END_SECTION:waka-->
   <img alt="Haus226's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
