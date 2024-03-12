@@ -1,9 +1,6 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-</p>
-<div size='20px'> Hi! My name is Haus. Thank You for viewing my GitHub Profile :smile: 
-</div>
+<h3 align="center"><a href="https://Haus226.github.io/">
+   <img alt="Haus" src="https://readme-typing-svg.herokuapp.com/?lines=Haus;AI/Math enthusiast&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
