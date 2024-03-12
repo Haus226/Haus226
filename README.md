@@ -3,15 +3,16 @@
 </h3>
 
  <div style="display: flex;">
-     <img src="assets/eevee.gif" alt="Pikachu" width="30" height="30">
-     <img src="assets/flareon.gif" alt="Pikachu" width="30" height="30">
-     <img src="assets/vaporeon.gif" alt="Pikachu" width="30" height="30">
-     <img src="assets/jolteon.gif" alt="Pikachu" width="30" height="30">
-     <img src="assets/espeon.gif" alt="Pikachu" width="30" height="30">
-     <img src="assets/umbreon.gif" alt="Pikachu" width="30" height="30">
-     <img src="assets/leafeon.gif" alt="Pikachu" width="30" height="30">
-     <img src="assets/glaceon.gif" alt="Pikachu" width="30" height="30">
-     <img src="assets/sylveon.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/pokemonashq.gif" alt="Pikachu" width="40" height="50">
+     <img src="assets/eevee.gif" alt="Pikachu" width="40" height="40">
+     <img src="assets/flareon.gif" alt="Pikachu" width="40" height="40">
+     <img src="assets/vaporeon.gif" alt="Pikachu" width="40" height="40">
+     <img src="assets/jolteon.gif" alt="Pikachu" width="40" height="40">
+     <img src="assets/espeon.gif" alt="Pikachu" width="40" height="40">
+     <img src="assets/umbreon.gif" alt="Pikachu" width="40" height="40">
+     <img src="assets/leafeon.gif" alt="Pikachu" width="40" height="40">
+     <img src="assets/glaceon.gif" alt="Pikachu" width="40" height="40">
+     <img src="assets/sylveon.gif" alt="Pikachu" width="40" height="40">
  </div>
 
 <h1 align="left">
