@@ -4,7 +4,7 @@
 
  <div style="display: flex;">
 <!--      <img src="assets/pokemonashq.gif" alt="Pikachu"> -->
-     <img src="assets/pikachu_running.gif" alt="Pikachu">
+     <img src="assets/pikachu_running.gif" alt="Pikachu", width=50px, height=50px>
      <img src="assets/eevee.gif" alt="Pikachu">
      <img src="assets/flareon.gif" alt="Pikachu">
      <img src="assets/vaporeon.gif" alt="Pikachu">
