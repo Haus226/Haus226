@@ -3,7 +3,7 @@
 </h3>
 
  <div style="display: flex;">
-     <img src="assets/pokemonashq.gif" alt="Pikachu" width="40" height="50">
+     <img src="assets/pokemonashq.gif" alt="Pikachu" width="40" height="40">
      <img src="assets/eevee.gif" alt="Pikachu" width="40" height="40">
      <img src="assets/flareon.gif" alt="Pikachu" width="40" height="40">
      <img src="assets/vaporeon.gif" alt="Pikachu" width="40" height="40">
@@ -31,7 +31,7 @@ I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learnin
 
 How to reach me: osiihy5262@gmail.com <img src="assets/valor.gif" alt="Pikachu" width="30" height="30">
 
-👯 I’m looking to collaborate on projects, tech articles and etc... 
+<img src="assets/sylveon_peek.gif" alt="Pikachu" width="30" height="30">  I’m looking to collaborate on projects, tech articles and etc... 
 
   
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2023%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
