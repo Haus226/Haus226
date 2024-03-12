@@ -2,7 +2,7 @@
    <img alt="Haus" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=435&lines=Haus;AI%2FMath+enthusiast&width=800&height=60&color=68C3D4&vCenter=true&size=60" alt="Typing SVG"></a>
 </h3>
 
-<h2>🔎  About Me </h2>
+## ![](assets/pokeball-throwing.gif) About Me ##
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on ___[numericAnalysis](https://github.com/Haus226/numericAnalysis)___
 
 - 🌱 I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ 
+
+- 🎮 I like to play Pokemon Games ![](assets/suicune.gif)
 
 - 📫 How to reach me: osiihy5262@gmail.com
 
