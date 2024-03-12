@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '15 15 * * *'
+    - cron: '30 16 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
+          SHOW_PROJECTS: "True"
