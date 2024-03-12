@@ -1,5 +1,5 @@
-<h3 align="left"><a href="https://Haus226.github.io/">
-   <img alt="Haus" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Haus;AI%2FMath+enthusiast&width=440&height=60&color=68C3D4&vCenter=true&size=60" alt="Typing SVG"></a>
+<h3 align="left"><a href="https://github.com/Haus226">
+   <img alt="Haus" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=435&lines=Haus;AI%2FMath+enthusiast&width=800&height=60&color=68C3D4&vCenter=true&size=60" alt="Typing SVG"></a>
 </h3>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -7,17 +7,16 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Github projects to build up my profile.
+- 🔭 I’m currently working on ___[numericAnalysis](https://github.com/Haus226/numericAnalysis)___
 
-- 🌱 I’m currently learning Neural Architecture Search, Reinforcement Learning, Matrix Computation and Numeric Method.
+- 🌱 I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ 
 
 - 👯 I’m looking to collaborate on projects, tech articles and etc... 
-
-- 💬 Talk to me about Python, Math, Visualization
   
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
+
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
 
