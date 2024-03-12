@@ -1,21 +1,36 @@
 <h3 align="left"><a href="https://github.com/Haus226">
-   <img alt="Haus" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=435&lines=Haus;AI%2FMath+enthusiast&width=800&height=60&color=68C3D4&vCenter=true&size=60" alt="Typing SVG"></a>
+   <img alt="Haus" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=435&lines=Haus;AI%2FMath+enthusiast&width=700&height=60&color=68C3D4&vCenter=true&size=52" alt="Typing SVG"></a>
 </h3>
 
-## ![](assets/pokeball-throwing.gif) About Me ##
+ <div style="display: flex;">
+     <img src="assets/eevee.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/flareon.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/vaporeon.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/jolteon.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/espeon.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/umbreon.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/leafeon.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/glaceon.gif" alt="Pikachu" width="30" height="30">
+     <img src="assets/sylveon.gif" alt="Pikachu" width="30" height="30">
+ </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<h1 align="left">
+   About Me
+   <img src="assets/pokeball-throwing.gif" alt="Pikachu" width="30" height="30">
+</h1>
 
 
-- 🔭 I’m currently working on ___[numericAnalysis](https://github.com/Haus226/numericAnalysis)___
 
-- 🌱 I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ 
 
-- 🎮 I like to play Pokemon Games ![](assets/suicune.gif)
+<img src="assets/pikachu.gif" alt="Pikachu" width="30" height="30"> I’m currently working on ___[numericAnalysis](https://github.com/Haus226/numericAnalysis)___
 
-- 📫 How to reach me: osiihy5262@gmail.com
+I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ <img src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30">
 
-- 👯 I’m looking to collaborate on projects, tech articles and etc... 
+<img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon Games 
+
+How to reach me: osiihy5262@gmail.com <img src="assets/valor.gif" alt="Pikachu" width="30" height="30">
+
+👯 I’m looking to collaborate on projects, tech articles and etc... 
 
   
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2023%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
