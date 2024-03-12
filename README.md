@@ -41,40 +41,40 @@ How to reach me: osiihy5262@gmail.com <img src="assets/valor.gif" alt="Pikachu" 
 
 <div style="display: flex; justify-content: center;">
   <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg" width="65" height="65" alt="Flutter" />
-        <br>Flutter
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        <br>Python
-      </td>
-            <td align="center" width="96">
-        <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' alt="icon" width="65" height="65" />
-        <br>C
-      </td>
-    </tr>
-    <tr>
-          <td align="center" width="96">
-        <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg' alt="icon" width="65" height="65" />
-        <br>Scikit
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-          width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-        <br>Github
-      </td>
-            <td align="center" width="96">
-          <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg' width="48" height="48" alt="Pytorch" />
+
+   <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+     <br>C++
+   </td>
+   <td align="center" width="96">
+     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg" width="65" height="65" alt="Flutter" />
+     <br>Flutter
+   </td>
+   <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+     <br>Python
+   </td>
+         <td align="center" width="96">
+     <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' alt="icon" width="65" height="65" />
+     <br>C
+   </td>
+
+
+ <td align="center" width="96">
+  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg' alt="icon" width="65" height="65" />
+  <br>Scikit
+   </td>
+   <td align="center" width="96">
+     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+       width="48" height="48" alt="Git" />
+     <br>Git
+   </td>
+   <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+     <br>Github
+   </td>
+         <td align="center" width="96">
+       <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg' width="48" height="48" alt="Pytorch" />
 
   </table>
 </div>
