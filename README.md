@@ -1,5 +1,5 @@
-<h3 align="center"><a href="https://Haus226.github.io/">
-   <img alt="Haus" src="https://readme-typing-svg.herokuapp.com/?lines=Haus;AI/Math enthusiast&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+<h3 align="left"><a href="https://Haus226.github.io/">
+   <img alt="Haus" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Haus;AI%2FMath+enthusiast&width=440&height=60&color=68C3D4&vCenter=true&size=60" alt="Typing SVG"></a>
 </h3>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -13,8 +13,11 @@
 
 - 👯 I’m looking to collaborate on projects, tech articles and etc... 
 
-- 💬 Talk to me about Python, Math, Visualization 
+- 💬 Talk to me about Python, Math, Visualization
+  
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2023%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
 
@@ -58,28 +61,13 @@
   </table>
 </div>
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haus226&hide=contribs,prs,issues&rank_icon=github&include_all_commits=true&range=all_time">
-</a>
-<br>
 
 
-<h2> My Top Languages and Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<p align="center">
-  <a href="https://github.com/haus226?tab=repositories"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=haus226&exclude_repo=haus226&layout=donut&size_weight=0.01&hide=cmake&langs_count=3")
-      width="48%" height="160px" alt="@Haus's github-readme-stats" /></a>
-  <a href="https://wakatime.com/@Haus226"><img
-      src="https://github-readme-stats.vercel.app/api?username=haus226&hide=contribs,prs,issues&rank_icon=github&include_all_commits=true"
-      width="48%" height="160px" alt="@Haus's wakatime stats" /></a>
-</p>
+
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
 
 **🐱 My GitHub Data** 
 
