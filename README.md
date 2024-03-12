@@ -33,9 +33,6 @@ How to reach me: osiihy5262@gmail.com <img src="assets/valor.gif" alt="Pikachu" 
 
 <img src="assets/sylveon_peek.gif" alt="Pikachu" width="30" height="30">  I’m looking to collaborate on projects, tech articles and etc... 
 
-  
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2023%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
-
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
 
@@ -86,8 +83,8 @@ How to reach me: osiihy5262@gmail.com <img src="assets/valor.gif" alt="Pikachu" 
 <img alt="Haus's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
 
-<img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Haus226&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
-<img alt="Hud0shnik's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Haus226&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
+<img alt="Haus's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Haus226&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
+<img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Haus226&theme=nord&title=Commits,Followers,Stars,Repositories&no-frame=true&margin-w=18"/>
 
 
 
