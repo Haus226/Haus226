@@ -3,16 +3,17 @@
 </h3>
 
  <div style="display: flex;">
-     <img src="assets/pokemonashq.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/eevee.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/flareon.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/vaporeon.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/jolteon.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/espeon.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/umbreon.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/leafeon.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/glaceon.gif" alt="Pikachu" width="40" height="40">
-     <img src="assets/sylveon.gif" alt="Pikachu" width="40" height="40">
+<!--      <img src="assets/pokemonashq.gif" alt="Pikachu"> -->
+     <img src="assets/pikachu_running.gif" alt="Pikachu">
+     <img src="assets/eevee.gif" alt="Pikachu">
+     <img src="assets/flareon.gif" alt="Pikachu">
+     <img src="assets/vaporeon.gif" alt="Pikachu">
+     <img src="assets/jolteon.gif" alt="Pikachu">
+     <img src="assets/espeon.gif" alt="Pikachu">
+     <img src="assets/umbreon.gif" alt="Pikachu">
+     <img src="assets/leafeon.gif" alt="Pikachu">
+     <img src="assets/glaceon.gif" alt="Pikachu">
+     <img src="assets/sylveon.gif" alt="Pikachu">
  </div>
 
 <h1 align="left">
@@ -22,10 +23,10 @@
 
 
 
+<img width="30%" align="right" alt="Github" src="assets/ash_pikachu.gif"/>
 
-<img src="assets/pikachu.gif" alt="Pikachu" width="30" height="30"> I’m currently working on ___[numericAnalysis](https://github.com/Haus226/numericAnalysis)___
 
-I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ <img src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30">
+I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ <img src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
 <img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon Games 
 
@@ -33,11 +34,14 @@ How to reach me: osiihy5262@gmail.com <img src="assets/valor.gif" alt="Pikachu" 
 
 <img src="assets/sylveon_peek.gif" alt="Pikachu" width="30" height="30">  I’m looking to collaborate on projects, tech articles and etc... 
 
+
+
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
 
-<div style="display: flex; justify-content: center;">
-  <table>
+
+  
+   <table>
 
    <td align="center" width="96">
      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
