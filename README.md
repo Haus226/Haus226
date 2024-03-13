@@ -37,7 +37,7 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 
 <h2> Skills <img align="center" src = "assets/i_choose_you.gif" width = 100px height=60px> </h2>
-   <table align="center">
+   <table>
    <tr>
       <td align="center" width="96" valign="bottom">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
