@@ -18,7 +18,7 @@
 
 <h1 align="left">
    About Me
-   <img src="assets/pokeball-throwing.gif" alt="Pikachu" width="30" height="30">
+   <img align="center" src="assets/pokeball-throwing.gif" alt="Pikachu" width="50" height="50">
 </h1>
 
 
@@ -26,63 +26,78 @@
 <img width="30%" align="right" alt="Github" src="assets/ash_pikachu.gif"/>
 
 
-I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ <img src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
+I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
 <img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon Games 
 
-How to reach me: osiihy5262@gmail.com <img src="assets/valor.gif" alt="Pikachu" width="30" height="30">
+How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif" alt="Pikachu" width="30" height="30">
 
 <img src="assets/sylveon_peek.gif" alt="Pikachu" width="30" height="30">  I’m looking to collaborate on projects, tech articles and etc... 
 
 
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2> Skills <img align="center" src = "assets/i_choose_you.gif" width = 100px height=60px> </h2>
+   <table align="center">
+   <tr>
+      <td align="center" width="96" valign="bottom">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
+        <br>C++
+      </td>
+      <td align="center" width="96" valign="bottom">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg" width="48" height="48" alt="Flutter" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96" valign="bottom">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+        <br>Python
+      </td>
+            <td align="center" width="96" valign="bottom">
+        <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' alt="icon" width="48" height="48" />
+        <br>C
+      </td>
+      <td align="center" width="96" valign="bottom">
+          <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg' width="48" height="48" alt="Pytorch" />
+         <br>Pytorch
+      </td>
+      <td align="center" width="96" valign="bottom">
+          <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg' width="48" height="48" alt="Pytorch" />
+         <br>Tensorflow
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="96" valign="bottom">
+       <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg' width="48" height="48" alt="Pytorch" />
+      <br>Firebase
+      </td>
+      <td align="center" width="96" valign="bottom">
+       <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg' width="48" height="48" alt="Pytorch" />
+      <br>Unity
+      </td>
+      <td align="center" width="96" valign="bottom">
+       <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg' width="48" height="48" alt="Pytorch" />
+      <br>Selenium
+      </td>
+      <td align="center" width="96" valign="bottom">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+          width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+    <td align="center" width="96" valign="bottom">
+     <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg' alt="icon" width="48" height="48" />
+     <br>Scikit
+      </td>
+      <td align="center" width="96" valign="bottom">
+          <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg' width="48" height="48" alt="Pytorch" />
+         <br>SQLite
+      </td>
+   </tr>
 
-
-
-  
-   <table>
-
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-     <br>C++
-   </td>
-   <td align="center" width="96">
-     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg" width="65" height="65" alt="Flutter" />
-     <br>Flutter
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-     <br>Python
-   </td>
-         <td align="center" width="96">
-     <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' alt="icon" width="65" height="65" />
-     <br>C
-   </td>
-
-
- <td align="center" width="96">
-  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg' alt="icon" width="65" height="65" />
-  <br>Scikit
-   </td>
-   <td align="center" width="96">
-     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-       width="48" height="48" alt="Git" />
-     <br>Git
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-     <br>Github
-   </td>
-         <td align="center" width="96">
-       <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg' width="48" height="48" alt="Pytorch" />
-
+      
   </table>
 </div>
 
 
-<h3>🔥 Statistics :</h3>
-
+<h2> <img align="center" src = "assets/giphy.gif" width = 100px height=60px> Statistics</h2>
 
 <img alt="Haus's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
