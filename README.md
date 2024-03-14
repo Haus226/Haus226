@@ -37,6 +37,10 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 
 <h2> Skills <img align="center" src = "assets/i_choose_you.gif" width = 100px height=60px> </h2>
+
+<img width="30%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haus226&size_weight=0.01&count_weight=0.01&hide=cmake&layout=donut&langs_count=4"/>
+
+
    <table>
    <tr>
       <td align="center" width="96" valign="bottom">
@@ -96,14 +100,15 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
   </table>
 </div>
 
-
 <h2> <img align="center" src = "assets/giphy.gif" width = 100px height=60px> Statistics</h2>
+
+<img align="right" alt="Haus's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Haus226&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
 
 <img alt="Haus's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
-
-<img alt="Haus's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Haus226&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
 <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Haus226&theme=nord&title=Commits,Followers,Stars,Repositories&no-frame=true&margin-w=18"/>
+
+
 
 
 
