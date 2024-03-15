@@ -25,7 +25,7 @@
 
 <img width="30%" align="right" alt="Github" src="assets/ash_pikachu.gif"/>
 
-<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently working on (numericAnalysis)[https://github.com/Haus226/numericAnalysis]
+<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently working on [numericAnalysis](https://github.com/Haus226/numericAnalysis)
 
 I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
