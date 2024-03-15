@@ -25,6 +25,7 @@
 
 <img width="30%" align="right" alt="Github" src="assets/ash_pikachu.gif"/>
 
+<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently working on (numericAnalysis)[https://github.com/Haus226/numericAnalysis]
 
 I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__ and __Neural Architecture Search__ <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
@@ -38,7 +39,7 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 <h2> Skills <img align="center" src = "assets/i_choose_you.gif" width = 100px height=60px> </h2>
 
-<img width="30%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haus226&size_weight=0.01&count_weight=0.01&hide=cmake&layout=donut&langs_count=4"/>
+<img width="30%" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haus226&size_weight=0.01&count_weight=0.01&hide=cmake&layout=donut&langs_count=4"/>
 
 
    <table>
@@ -102,7 +103,7 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 <h2> <img align="center" src = "assets/giphy.gif" width = 100px height=60px> Statistics</h2>
 
-<img align="right" alt="Haus's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Haus226&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
+<img alt="Haus's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Haus226&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
 
 <img alt="Haus's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haus226&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
