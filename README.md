@@ -114,9 +114,9 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-221.0%20thousand%20lines%20of%20code-blue)
 
@@ -147,14 +147,14 @@ Sunday                   50 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   19 hrs 5 mins       ████████████████████████░   95.94 % 
-C                        28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-MATLAB                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   12 hrs 26 mins      ████████████████████████░   97.96 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-numericAnalysis          19 hrs 54 mins      █████████████████████████   100.00 % 
+numericAnalysis          12 hrs 18 mins      ████████████████████████░   96.93 % 
+FinFlex                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 
 **I Mostly Code in Python** 
