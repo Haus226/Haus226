@@ -29,7 +29,7 @@
 
 I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__, __Neural Architecture Search__, __XAI__ and __AI Security__ <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
-<img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon Games 
+<img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon and Monster Hunter Games
 
 How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif" alt="Pikachu" width="30" height="30">
 
