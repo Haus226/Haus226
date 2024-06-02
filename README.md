@@ -114,7 +114,7 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -147,11 +147,14 @@ Sunday                   53 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   14 hrs 26 mins      █████████████████████████   100.00 % 
+Python                   15 hrs 6 mins       █████████████████████████   99.95 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 37 mins      ██████████████████░░░░░░░   73.56 % 
-New folder               3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Unknown Project          10 hrs 28 mins      █████████████████░░░░░░░░   69.35 % 
+New folder               3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+SnapHealth               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 
 **I Mostly Code in Python** 
