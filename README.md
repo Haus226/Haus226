@@ -114,9 +114,9 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-225.5%20thousand%20lines%20of%20code-blue)
 
@@ -147,14 +147,16 @@ Sunday                   53 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   15 hrs 6 mins       █████████████████████████   99.95 % 
+Python                   14 hrs 58 mins      █████████████████████████   99.95 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 28 mins      █████████████████░░░░░░░░   69.35 % 
-New folder               3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-SnapHealth               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Unknown Project          8 hrs 3 mins        █████████████░░░░░░░░░░░░   53.77 % 
+New folder               3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Pong                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+SnapHealth               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+DNN_Adversarial          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 **I Mostly Code in Python** 
