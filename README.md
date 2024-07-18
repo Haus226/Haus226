@@ -114,7 +114,7 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -147,13 +147,13 @@ Sunday                   53 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   33 hrs 30 mins      █████████████████████████   99.78 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   31 hrs 39 mins      █████████████████████████   99.17 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🐱‍💻 Projects: 
-Thesis                   30 hrs 31 mins      ███████████████████████░░   90.89 % 
-ATARI-Pong-Competiton-Env2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-ATARI-Pong-Competiton-Env14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Thesis                   30 hrs 47 mins      ████████████████████████░   96.48 % 
+ATARI-Pong-Competiton-Env1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+ATARI-Pong-Competiton-Env2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in Python** 
