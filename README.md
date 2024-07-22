@@ -114,9 +114,9 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229.7%20thousand%20lines%20of%20code-blue)
 
@@ -147,14 +147,15 @@ Sunday                   53 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   20 hrs 26 mins      █████████████████████████   98.50 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Python                   20 hrs 34 mins      ████████████████████████░   95.08 % 
+CSV                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Thesis                   16 hrs 56 mins      ████████████████████░░░░░   81.56 % 
-multimodal               3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Thesis Plain             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Thesis                   13 hrs 12 mins      ███████████████░░░░░░░░░░   61.00 % 
+multimodal               7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
+Thesis Plain             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 **I Mostly Code in Python** 
