@@ -25,9 +25,9 @@
 
 <img width="30%" align="right" alt="Github" src="assets/ash_pikachu.gif"/>
 
-<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently working on [numericAnalysis](https://github.com/Haus226/numericAnalysis) (Until Chapter 7, Will be back after August)
+<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently reading papers that are interesting such as variations of convolution and attention mechanisms.
 
-I'm learning __Numeric Method__, __Matrix Computation__, __Reinforcement Learning__, __Neural Architecture Search__, __XAI__ and __AI Security__ <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
+I'm learning __Numeric Method__, __Matrix Computation__, __XAI__, __AI Security__ and etc. <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
 <img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon and Monster Hunter Games
 
