@@ -25,9 +25,9 @@
 
 <img width="30%" align="right" alt="Github" src="assets/ash_pikachu.gif"/>
 
-<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently reading papers that are interesting such as variations of convolution and attention mechanisms.
+<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently reading papers that are interesting such as variations of convolution, transformers, attention mechanisms and etc.
 
-I'm learning __Numeric Method__, __Matrix Computation__, __XAI__, __AI Security__ and etc. <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
+I'm currently reading interesting conference papers and trying to implement them using PyTorch. <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
 <img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon and Monster Hunter Games
 
