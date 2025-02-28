@@ -25,9 +25,9 @@
 
 <img width="30%" align="right" alt="Github" src="assets/ash_pikachu.gif"/>
 
-<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently reading papers that are interesting such as variations of convolution, transformers, attention mechanisms and etc.
+<img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently learning and implementing algorithms in _Numerical Analysis_.
 
-I'm currently reading interesting conference papers and trying to implement them using PyTorch. <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
+I'm currently studying Typescript and React <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
 <img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon and Monster Hunter Games
 
