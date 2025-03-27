@@ -114,44 +114,9 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-🌆 Daytime                196 commits         ███████████░░░░░░░░░░░░░░   43.56 % 
-🌃 Evening                167 commits         █████████░░░░░░░░░░░░░░░░   37.11 % 
-🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Tuesday                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Sunday                   72 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
