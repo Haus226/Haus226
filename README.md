@@ -27,7 +27,7 @@
 
 <img src="assets/pokeball.gif" alt="Pikachu" width="30" height="30"> I'm currently learning and implementing algorithms in _Numerical Analysis_.
 
-I'm currently studying Typescript and React <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
+I'm currently revising and studying more ML/DL <img align="center" src="assets/charmander_shiny.gif" alt="Pikachu" width="30" height="30"> 
 
 <img src="assets/suicune.gif" alt="Pikachu" width="30" height="30"> I like to play Pokemon and Monster Hunter Games
 
