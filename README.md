@@ -120,39 +120,6 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-🌆 Daytime                197 commits         ███████████░░░░░░░░░░░░░░   42.18 % 
-🌃 Evening                178 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
-🌙 Night                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Tuesday                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Thursday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Friday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Sunday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
