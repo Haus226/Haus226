@@ -156,11 +156,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-Jupyter Notebook         8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+Jupyter Notebook         8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
