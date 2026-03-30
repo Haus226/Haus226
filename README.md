@@ -116,7 +116,7 @@ How to reach me: osiihy5262@gmail.com <img align="center" src="assets/valor.gif"
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -156,11 +156,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
-Jupyter Notebook         8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   10 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+Jupyter Notebook         8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
